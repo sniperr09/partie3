@@ -1,0 +1,12 @@
+[
+  {
+    "nom": "Sasuke",
+    "score": 90,
+    "niveau": "Expert"
+  },
+  {
+    "nom": "Sakura",
+    "score": 88,
+    "niveau": "Confirmé"
+  }
+]
